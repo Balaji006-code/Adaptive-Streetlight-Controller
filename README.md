@@ -261,5 +261,5 @@ This design is scalable and can be extended to include:
 ## Appendix — Files Provided
 
 * `Adaptive-Streetlight-Controller.v` — RTL implementation
-* `Adaptive-Streetlight-Controller-tb.v` — Testbench
+* `Adaptive-Streetlight-Controller-testbench.v` — Testbench
 * `Adaptive-Streetlight-Controller.xdc` — Constraint file

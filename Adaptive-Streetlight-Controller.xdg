@@ -1,0 +1,8 @@
+set_property -dict {PACKAGE_PIN F14 IOSTANDARD LVCMOS33} [get_ports {clk}]
+set_property -dict {PACKAGE_PIN U1 IOSTANDARD LVCMOS33} [get_ports {rst}]
+set_property -dict {PACKAGE_PIN V2 IOSTANDARD LVCMOS33} [get_ports {day}]
+set_property -dict {PACKAGE_PIN U2 IOSTANDARD LVCMOS33} [get_ports {veh_detect}]
+
+set_property -dict {PACKAGE_PIN V6 IOSTANDARD LVCMOS33} [get_ports {R}]
+set_property -dict {PACKAGE_PIN V4 IOSTANDARD LVCMOS33} [get_ports {G}]
+set_property -dict {PACKAGE_PIN U6 IOSTANDARD LVCMOS33} [get_ports {B}]

@@ -257,3 +257,9 @@ This design is scalable and can be extended to include:
 •	Ultrasonic/IR sensor inputs
 
 •	IoT-based monitoring
+
+## Appendix — Files Provided
+
+* `Adaptive-Streetlight-Controller.v` — RTL implementation
+* `Adaptive-Streetlight-Controller-tb.v` — Testbench
+* `Adaptive-Streetlight-Controller.xdc` — Constraint file
